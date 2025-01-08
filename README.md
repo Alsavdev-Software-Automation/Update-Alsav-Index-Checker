@@ -10,3 +10,8 @@
   * Update restart button after downloading the latest version
 * 2024-11-18 -- 1.0.3
   * Update buster
+* 2024-12-7 -- 1.0.4
+  * Hide restart
+* 2025-1-8 -- 1.0.5
+  * Update buster
+
