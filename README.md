@@ -13,5 +13,5 @@
 * 2024-12-7 -- 1.0.4
   * Hide restart
 * 2025-1-8 -- 1.0.5
-  * Update buster
+  * Update buster & selector
 
