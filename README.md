@@ -8,3 +8,5 @@
   * Update vpn
 * 2024-11-7 -- 1.0.2
   * Update restart button after downloading the latest version
+* 2024-11-18 -- 1.0.3
+  * Update buster
