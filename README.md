@@ -14,4 +14,5 @@
   * Hide restart
 * 2025-1-8 -- 1.0.5
   * Update buster & selector
-
+* 2025-2-6 -- 1.0.6
+  * Update export results
