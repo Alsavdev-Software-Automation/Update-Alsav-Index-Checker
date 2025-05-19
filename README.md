@@ -16,3 +16,5 @@
   * Update buster & selector
 * 2025-2-6 -- 1.0.6
   * Update export results
+* 2025-05-19 -- 1.0.9
+  * Modify solveCaptcha function parameters
