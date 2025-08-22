@@ -21,4 +21,4 @@
 * 2025-08-15 -- 1.1.4
   * Fix buster
 * 2025-08-22 -- 1.1.6
-  * Fix buster & update selector pink
+  * Fix buster & update selector ping
