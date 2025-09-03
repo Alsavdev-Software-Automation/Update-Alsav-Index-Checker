@@ -22,3 +22,5 @@
   * Fix buster
 * 2025-08-22 -- 1.1.6
   * Fix buster & update selector ping
+* 2025-3-9 -- 1.1.7
+  * Add progress bar
