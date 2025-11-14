@@ -24,3 +24,7 @@
   * Fix buster & update selector ping
 * 2025-3-9 -- 1.1.7
   * Add progress bar
+* 2025-11-14 -- 1.1.8
+  * Update new method write input
+  * [Fast] No delay anymore
+  * Refactor code, effecient 
