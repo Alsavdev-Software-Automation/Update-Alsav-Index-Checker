@@ -30,3 +30,5 @@
   * Refactor code, effecient 
 * 2025-11-18 -- 1.1.9
   * Enhance CAPTCHA handling and logging, update UI spacing and textarea styles
+* 2025-11-24 -- 1.2.0
+  * Adding condition break batchFailed
