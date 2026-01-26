@@ -35,5 +35,7 @@
 * 2025-01-25 -- 1.2.1
   * Fix consume balance
   * Enhance captcha handling
-* 2025-01-26 -- 1.2.2
+* 2025-01-26 -- 1.2.2 & 1.2.3
   * Fix type data index
+  * Fix captcha feature
+  * Rollback info status log
