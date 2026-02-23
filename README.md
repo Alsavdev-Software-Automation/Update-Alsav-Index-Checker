@@ -42,5 +42,6 @@
 * 2026-02-10 -- 1.2.4
   * Migrated system architecture to a worker-based model
   * Implemented Google page indexing and status verification functionality
-* 2026-02-23 -- 1.2.5
+* 2026-02-23 -- 1.2.6
   * Fix path extension
+  * Update regex extract index
