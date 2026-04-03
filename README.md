@@ -45,3 +45,5 @@
 * 2026-02-23 -- 1.2.6
   * Fix path extension
   * Update regex extract index
+* 2026-04-03 -- 1.2.7
+  * Search, Bulk Delete, Trim duplicate table
