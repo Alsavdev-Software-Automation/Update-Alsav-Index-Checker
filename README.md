@@ -47,3 +47,5 @@
   * Update regex extract index
 * 2026-04-03 -- 1.2.7
   * Search, Bulk Delete, Trim duplicate table
+* 2026-04-015 -- 1.2.8
+  * Fix error load extension
