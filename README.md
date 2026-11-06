@@ -47,5 +47,8 @@
   * Update regex extract index
 * 2026-04-03 -- 1.2.7
   * Search, Bulk Delete, Trim duplicate table
-* 2026-04-015 -- 1.2.8
+* 2026-04-15 -- 1.2.8
   * Fix error load extension
+* 2026-11-16 -- 1.3.3
+  * Resolve npm audit security vulnerabilities (Critical & High) via dependency overrides
+  * Improve selector extraction and delay handling for search result statistics
